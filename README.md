@@ -1,4 +1,7 @@
 # Time-use-cognition-paper
+
+*** Please note that the scripts are now being finalised and will be uploaded in the coming days. Please email me at maddison.mellow@unisa.edu.au or message me on Twitter (@MaddisonMellow) if you have any questions about the data or scripts. 
+
 Analysis pipelines used for our study, "24-hour time-use composition and cognitive function in older adults: cross-sectional findings of the ACTIVate study"
 
 
